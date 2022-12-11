@@ -1,4 +1,7 @@
-# Myslider
+# Wow slider implementation in angular
+
+Generate your wow slider using the windows or mac setup. You can then publish your final artefact and add it to your angular project in few steps as illustrated in this project.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.3.
 
